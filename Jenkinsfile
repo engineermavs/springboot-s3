@@ -1,2 +1,2 @@
 @Library('shared-library') _ 
-cfnDeployEC2()
+deployEC2()
